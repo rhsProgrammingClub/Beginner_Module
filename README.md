@@ -1,2 +1,2 @@
 # Beginner_Module
-Here is where we upload all of the code from beginner module lessons for you to review.
+We will upload all of our code we've learned from the meeting slides here.
